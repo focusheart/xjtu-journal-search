@@ -18,7 +18,7 @@ then you can access this little web site on `localhost:8000`
 
 ## How it works
 
-1. parse xlsx files into json data
+1. parse xlsx files into json data by `openpyxl` (https://openpyxl.readthedocs.io/)
 2. load data and other things into page by `jquery` (https://jquery.com/)
 3. indexes the data in page by `lunr.js` (https://lunrjs.com/)
 4. render page by `vue.js` (https://vuejs.org/)
