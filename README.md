@@ -19,8 +19,9 @@ then you can access this little web site on `localhost:8000`
 ## How it works
 
 1. parse xlsx files into json data
-2. indexes the data in page by `lunr.js` (https://lunrjs.com/)
-3. render page by `vue.js` (https://vuejs.org/)
-4. use
+2. load data and other things into page by `jquery` (https://jquery.com/)
+3. indexes the data in page by `lunr.js` (https://lunrjs.com/)
+4. render page by `vue.js` (https://vuejs.org/)
+5. use
 
 ![image of search ui](https://github.com/focusheart/xjtu-journal-search/blob/master/static/img/cover.png?raw=true)
